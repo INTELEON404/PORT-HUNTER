@@ -101,16 +101,16 @@ MIT License © 2025 INTELEON404
 
 ## Contact
 
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Email: [inteleon404@gmail.com](mailto:inteleon404@gmail.com)
 * GitHub: [https://github.com/INTELEON404](https://github.com/INTELEON404)
 
 ---
 
 **Feedback and contributions are welcome. Thank you!**
 
-```
+
 
 ---
 
 If you want, I can also help create installation instructions, examples, or contribution guidelines. Let me know!
-```
+

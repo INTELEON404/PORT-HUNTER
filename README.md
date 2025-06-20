@@ -57,7 +57,7 @@ python3 scan.py -t 192.168.1.1,google.com -r 1-1024 -th 500 -to 2 --traceroute
 
 ```
 ╔════════════════════════════════════════════════════════╗
-║                ⚡ ADVANCED PORT SCANNER                ║
+║                ⚡ ADVANCED PORT SCANNER                 ║
 ║                   Coded by INTELEON404                 ║
 ╚════════════════════════════════════════════════════════╝
 
@@ -74,7 +74,7 @@ python3 scan.py -t 192.168.1.1,google.com -r 1-1024 -th 500 -to 2 --traceroute
 ┏━━━━━━┳━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━━━━━━┓
 ┃ Port ┃ Status ┃ Service ┃ Version Info ┃
 ┡━━━━━━╇━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━━━━━━┩
-│   80 │  Open  │ http    │ Apache/2.4.41 │
+│   80 │  Open  │ http    │ Apache/2.4.41│
 └──────┴────────┴─────────┴──────────────┘
 
 [+] Total open ports: 1

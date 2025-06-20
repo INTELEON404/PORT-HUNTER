@@ -1,4 +1,5 @@
 # Advanced Port Scanner
+[![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge&logo=github)](https://github.com/INTELEON404/PORT-HUNTER)  
 
 ⚡ **Advanced Port Scanner** is a powerful multi-threaded port scanning tool that scans specified IP addresses or domains over a range of ports. It detects open ports, basic service names, and performs simple version detection (e.g., HTTP server banners).
 

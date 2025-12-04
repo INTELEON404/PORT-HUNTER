@@ -106,7 +106,7 @@ MIT License © 2025 INTELEON404
 
 ## Contact
 
-* Email: [inteleon404@gmail.com](mailto:inteleon404@gmail.com)
+* Email: [inteleon404@proton.me](mailto:inteleon404@proton.me)
 * GitHub: [https://github.com/INTELEON404](https://github.com/INTELEON404)
 
 ---
